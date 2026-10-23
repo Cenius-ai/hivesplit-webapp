@@ -1,0 +1,3 @@
+# Test runner only — HiveSplit itself imports nothing outside the Python
+# standard library. Pinned to a real released version.
+pytest==9.1.1

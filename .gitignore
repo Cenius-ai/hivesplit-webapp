@@ -1,0 +1,21 @@
+# HiveSplit writes its whole apiary into a JSON file next to the command.
+hivesplit.json
+demo/
+
+# Session file opened by `hivesplit unlock`
+.hivesplit.session
+
+# Local exports
+*.csv
+
+# Python build / test artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+
+# Never commit local env files
+.env
