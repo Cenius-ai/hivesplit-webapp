@@ -103,7 +103,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Folder layout: `hivesplit.egg-info/`, `tests/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Full-stack app (28 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Folder layout: `hivesplit.egg-info/`, `tests/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Full-stack app (18 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
